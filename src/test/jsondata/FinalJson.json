@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "customerName": "Appium",
+      "purchaseDate": "2021-06-01",
+      "amount": 99,
+      "location": "Asia"
+    },
+    {
+      "customerName": "WebServices",
+      "purchaseDate": "2021-06-01",
+      "amount": 21,
+      "location": "Asia"
+    },
+    {
+      "customerName": "Jmeter",
+      "purchaseDate": "2021-06-01",
+      "amount": 76,
+      "location": "Asia"
+    }
+  ]
+}
